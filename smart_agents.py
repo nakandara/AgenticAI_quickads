@@ -20,7 +20,7 @@ class AgentState(dict):
     report_path: str = None
     charts: List[str] = None
     whatsapp_sent: bool = False
-
+# 
 # විශ්ලේෂණ Agent
 class AnalyticsAgent:
     """විකුණුම් දත්ත විශ්ලේෂණය කරන Agent"""
